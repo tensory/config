@@ -1,0 +1,6 @@
+tensory's configuration stuff:
+* ~/.screenrc
+* ~/.bash_profile
+* ~/.bashrc
+* ~/elisp/ -- Emacs includes
+* ~/.emacs

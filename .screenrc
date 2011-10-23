@@ -1,0 +1,6 @@
+# tensory's screenrc
+
+vbell on
+shelltitle ''
+startup_message off
+escape ^\\
