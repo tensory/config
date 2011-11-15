@@ -4,3 +4,6 @@ vbell on
 shelltitle ''
 startup_message off
 escape ^\\
+
+# force bash
+shell -bash
